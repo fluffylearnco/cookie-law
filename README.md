@@ -99,6 +99,10 @@ This project uses the awesome [js-cookie](https://github.com/js-cookie/js-cookie
 
 ## Changelog
 
+### 0.1.3.2 - 2017-07-08
+
+* fix expires cookie and json parse (by Hawerrr)
+
 ### 0.1.3 - 2015-08-13
 
 * Start with banner hidden then show it to prevent delay on hiding when you have accepted cookies
